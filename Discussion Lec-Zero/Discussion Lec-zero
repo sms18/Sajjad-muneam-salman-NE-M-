@@ -1,0 +1,48 @@
+    Sajjad Muneam Salman 
+    
+    Computer Engineering / Networks  Forth Class
+
+ 
+
+
+1. What is the web development and what are types of it?
+
+Answer:
+
+Web development is the process of creating and maintaining websites. It involves a variety of tasks, including web design, web content development, client-side/server-side scripting, and network security configuration.
+There are three main types of web development: front-end, back-end, and full-stack.
+
+#################################
+
+2. What is difference between web developers and web designers
+
+Answer:
+
+Web designers and web developers are two distinct roles in the website development process.
+
+ {{ Web designers }}                                                              {{web developers }}
+___________________________________________________________________________________________________________________________________________________           
+                                                       
+ a. Web designers focus on the **aesthetics* *                        | web developers concentrate on the **functionality** and **structure** of a website
+......................................................................|...................................................................................
+b.and **usability** of a website                                      |On the other hand, web developers are responsible for converting the design 
+Web designers are responsible for creating visually appealing designs |created by web designers into a fully functioning website.
+for websites using software such as Photoshop, Corel Draw, etc.       | They use different software and tools like:
+They focus on the style and overall feel of the website to            |Javascript, jQuery, Node.js, PHP, ASP.NET Python, etc.,
+ make it more attractive. There are different types of web designers  | to build a smooth-running, well-functioning website.
+ based on their role, such as User Experience (UX) Designer,          |There are three main types of web development: front-end, back-end, and full-stack. 
+ User Interface (UI) Designer, and Visual Designer                    |                    
+                                                                      |
+                                                                      |
+                                                                      |
+                                                                      |
+____________________________________________________________________________________________________________________________________________________________
+
+3. Is the best for web developer to be full stack development or just one type of development?
+
+Answer:
+
+in some case the best for web developer to be full stack development if we have Simple projects 
+but if need to development big project the best focus on one side and work with team.
+
+
